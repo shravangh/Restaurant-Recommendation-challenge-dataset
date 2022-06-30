@@ -1,4 +1,4 @@
-# Restaurant-Recommendation-challenge-dataset
+# Restaurant-Recommendation-system
 
 The dataset is obtained from datasets of kaggle https://www.kaggle.com/datasets/mrmorj/restaurant-recommendation-challenge. The train dataset
 consists of customer and vendor information like location, previous orders, order_tags, vendor_menu_tags, time of opening of restaurant etc.
