@@ -15,6 +15,6 @@ Based on initial EDA done on the train dataset, a list of columns are deemed imp
 are taken as features and also for every vendor top 5 similar vendors are taken as features.
 6. All features are concatenated.
 7. Since the data is imbalanced the minority class is upsampled and various ML models are applied to predict the output on test dataset.
-8. Further the SurPRISE models are used to create more features with the number of orders feature as target variable.
+8. Further the SurPRISE (Simple Python RecommendatIon System Engine) models are used to create more features with the number of orders feature as target variable.
 9. The output of SurPRISE models are made the new features and are added to previous features. The model is trained on this dataset.
 10. F1 score is chosen as performance metric and performance of various models is displayed in the notebook.
